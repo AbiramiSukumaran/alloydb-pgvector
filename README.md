@@ -18,8 +18,6 @@ AlloyDB is designed to meet the needs of organisations with demanding compliance
 # What is Cloud Function ?
 Cloud Function is a lightweight compute solution for developers to create single-purpose, stand-alone functions that respond to Cloud events without needing to manage a server or runtime environment.
 
-The above text is from: https://medium.com/google-cloud/connect-to-alloydb-for-postgresql-using-cloud-functions-9baef13ac5ca
-
 # Demo Steps
 1. Create the AlloyDB cluster, instance, database and table
 
