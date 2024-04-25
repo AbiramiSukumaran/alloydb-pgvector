@@ -1,5 +1,6 @@
 # alloydb-pgvector
-Vector Search for Patents Data
+## Use Case: Vector Search for Patents Data (using Embeddings for Text Data)
+User wants to search for a specific text in patent literature stored in AlloyDB, meaning-driven, not just keyword-driven. The app data is stored in AlloyDB, uses pgvector extension for embeddings and Cosine Similarity for Vector Search. The app is deployed as a Cloud Function endpoint.
 
 # What is AlloyDB ?
 AlloyDB is a fully managed, PostgreSQL-compatible database service that offers enterprise-grade performance, availability, and scale. AlloyDB offers a number of features that make it a good choice for demanding transactional and analytical workloads, including:
